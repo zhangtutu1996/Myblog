@@ -29,6 +29,6 @@ type: page
 欢迎大家提一些对本站主题的建议，可以直接在下面留言。
 
 
-## Comments
+## 评论
 
 {% include comments.html %}
