@@ -211,7 +211,7 @@ Visit https://disqus.com/ or http://duoshuo.com/. And follow the prompts at the 
 # comments
 # two ways to comment, only choose one, and use your own short name
 duoshuo_shortname: #hygblog
-disqus_shortname: xxxx
+disqus_shortname: xxxx 
 ```
 
 When you done, you can also see the comments info at disqus or duoshuo admin console.
