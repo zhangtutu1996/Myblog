@@ -50,7 +50,7 @@ With the escalation of jekyll version, but I also want to reconstruct my older b
 First of all, let's see previews.
 
 Index Page
-![index](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bdli86awj211k0oyqen.jpg)
+![index](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bdli86awj211k0oyqen.jpg) 
 
 Post Page
 ![post](http://ww4.sinaimg.cn/large/7011d6cfjw1f3bdmzb9v6j210p0j7gwn.jpg)
